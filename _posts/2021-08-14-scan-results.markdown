@@ -1,5 +1,4 @@
 ---
-title: %s - %s
 layout: post
 
 
@@ -167,3 +166,4 @@ layout: post
 
 ![Фотосессия " Бохо "](https://sun4-10.userapi.com/s/v1/ig2/w26O2MKv9AZ2X5gKOmJOFTQgsMv4LKIuw9MDyX5-r8XDgw6ZzzhPSIIzsXKj-eu14uWuuKb2_Wkn9fyvATWkZtTb.jpg?size=200x200&quality=96&crop=4,4,880,880&ava=1)
 [Фотосессия " Бохо "](https://vk.com/club102166195)
+
